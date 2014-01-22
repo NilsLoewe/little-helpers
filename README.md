@@ -1,4 +1,4 @@
 little-helpers
 ==============
 
-Small scripts for everyday
+These are small scripts for everyday use. 
